@@ -1,2 +1,3 @@
 # hello-world
-First github repository. I'll keep this repository up to keep track of my freeCodeCamp.org/studiotechwriter projects and track my progress.
+## First README File
+**First GitHub repository.** I'll keep this repository up to keep track of my _freeCodeCamp.org/studiotechwriter_ projects and track my progress.
